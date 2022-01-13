@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RINJANI IS A WONDERLAND</string>
+    //layout
+    <string name="pilih_gambar">(Select image to open gallery)</string>
+    <string name="daftar_ras_judul">Animal Race List</string>
+    <string name="go_back">Kembali</string>
+    <string name="Harimau">Tiger</string>
+    <string name="Singa">Lion</string>
+    <string name="kupu">Butterfly</string>
+    <string name="harimau_list_title">Tiger Race List</string>
+    <string name="singa_list_title">Lion race List</string>
+    <string name="kupu_list_title">Butterfly race List</string>
+    <string name="biodata">BIODATA</string>
+    <string name="Klik">Click To See Image</string>
+    //biodata
+    <string name="biodata_saya">Profile</string>
+    <string name="Nama">Name : Muhammad Azizan</string>
+    <string name="kelas">Class : TI-C</string>
+    <string name="Nim">NIM : 200602134</string>
+    <string name="Hobi">Hobbies: Motion graphic</string>
+    <string name="Prodi">Department : Informatics Engineering</string>
+    // Data Harimau
+    <string name="siberia_nama">Siberian tiger</string>
+    <string name="siberia_asal">Siberia</string>
+    <string name="siberia_deskripsi">Also called the Amur Tiger. Besides in Siberia they also live in China and North Korea</string>
+    <string name="india_nama">Indian Tiger</string>
+    <string name="india_asal">India</string>
+    <string name="india_deskripsi">Indian tiger is also called as Bengal tiger which is endangered due to poaching</string>
+    <string name="cina_nama">South China Tiger</string>
+    <string name="cina_asal">South Cina</string>
+    <string name="cina_deskripsi">This tiger is included in the second smallest tiger subspecies in the world</string>
+    <string name="indocina_nama">Indochinese Tiger</string>
+    <string name="indocina_asal">Thailand, Vietnam and Southeast Asia region</string>
+    <string name="indocina_deskripsi">hThis tiger that lives in Southeast Asia is also found in southern China</string>
+    <string name="malaya_nama">Malayan Tiger</string>
+    <string name="malaya_asal">Malay Peninsula</string>
+    <string name="malaya_deskripsi">They used to be classified as Indochinese tigers but DNA tests in 2004 showed they were a different subspecies</string>
+    <string name="sumatra_nama">Sumatran tiger </string>
+    <string name="sumatra_asal">Sumatra</string>
+    <string name="sumatra_deskripsi">is the smallest subspecies that ranges from 2.4 meters and has dark fur</string>
+    // Data Rinjani 1
+    <string name="kebersamaan0">Rinjani first</string>
+    <string name="kebersamaan1">Rinjani 1</string>
+    <string name="kebersamaan2">Rinjani 2</string>
+    <string name="kebersamaan3">Rinjani 3</string>
+    <string name="kebersamaan4">Rinjani 4</string>
+    <string name="kebersamaan5">Rinjani 5</string>
+    <string name="kebersamaan6">Rinjani 6</string>
+    // Data Jalur
+    <string name="jalur0">Track 1</string>
+    <string name="jalur1">Track 2</string>
+    <string name="jalur2">Track 3</string>
+    <string name="jalur3">Track 4</string>
+    <string name="jalur4">Track 5</string>
+    <string name="jalur5">Track 6</string>
+    // Data Pemandangan
+    <string name="pemandangan0">Views 1</string>
+    <string name="pemandangan1">Views 2</string>
+    <string name="pemandangan2">Views 3</string>
+    <string name="pemandangan3">Views 4</string>
+    <string name="pemandangan4">Views 5</string>
+    <string name="pemandangan5">Views 6</string>
+    // Daftar berbagai jalur
+    <string name="jalur">LIST OF VARIOUS TRACK</string>
+
+    <string name="katanga_asal">Afrika</string>
+    <string name="katanga_deskripsi">The ketanga lion, including the big lion, can weigh up to 280 kilograms</string>
+    <string name="kongo_nama">Congo lion</string>
+    <string name="kongo_asal">Kongo</string>
+    <string name="kongo_deskripsi">has a length of about 2.5 meters and weighs 150kg</string>
+    <string name="transvaal_nama">Transvaal Lion</string>
+    <string name="transvaal_asal">south Africa</string>
+    <string name="transvaal_deskripsi">This African lion is a variates from the southern part of Africa and is considered to be still a relative with the Tanga lion</string>
+    <string name="barbary_nama">Barbary Lion</string>
+    <string name="barbary_asal">Africa</string>
+    <string name="barbary_deskripsi">It was a lion that went extinct around 1942, but subspecies can be seen at the zoo</string>
+    <string name="afrikatimur_nama">East African Lion</string>
+    <string name="afrikatimur_asal">East Africa</string>
+    <string name="afrikatimur_deskripsi">have a tightness of about 150 to 200kg and males have a darker mane</string>
+    <string name="asia_nama">Asian lion </string>
+    <string name="asia_asal">Asian</string>
+    <string name="asia_deskripsi">are native to India and are also threatened with extinction due to their lack of habitat</string>
+    //kupu kupu
+    <string name="bidadari_nama">Angel Butterfly</string>
+    <string name="bidadari_asal">Sulawesi</string>
+    <string name="bidadari_deskripsi">The monarch butterfly is a type of butterfly that belongs to the family Danaidae</string>
+    <string name="melayu_nama">Malay King Butterfly</string>
+    <string name="melayu_asal">southeast Asia</string>
+    <string name="melayu_deskripsi">This type of butterfly is a butterfly that is spread in Southeast Asia</string>
+    <string name="trogon_nama">Trogon Butterfly</string>
+    <string name="trogon_asal">Sumatra</string>
+    <string name="trogon_deskripsi">Is a type of butterfly from the order Lepidoptera. regional endemic. the distribution is only on the island of Kalimantan</string>
+    <string name="hind_nama">Kaiser-I-Hind Butterfly</string>
+    <string name="hind_asal">Indian</string>
+    <string name="hind_deskripsi">the common name literally means(emperor of India). Kaiser i handa is much sought after by butterfly collectors because of its beauty and rarity</string>
+    <string name="miranda_nama">King Mirandas Butterfly</string>
+    <string name="miranda_asal">Sumatra</string>
+    <string name="mirand_deskripsi">The king miranda is a species of large butterfly called the Common Birdwing</string>
+    <string name="kalimantan_nama">Borneo King Butterfly </string>
+    <string name="kalimantan_asal">Kalimantan</string>
+    <string name="kalimantan_deskripsi">roides cuneifera is a butterfly that belongs to the kite-tailed butterfly group found in Thailand, the Malay Peninsula, Sumatra, Java and Kalimantan.</string>
+
+</resources>

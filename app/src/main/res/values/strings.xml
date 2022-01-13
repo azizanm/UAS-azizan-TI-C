@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">RINJANI ADALAH NEGERI YANG AJAIB</string>
+    // Layout
+    <string name="pilih_gambar">(Tekan gambar untuk membuka galeri)</string>
+    <string name="go_back">Kembali</string>
+    <string name="daftar_ras_judul">Animal Race List</string>
+    <string name="Harimau">TOGETHER 2</string>
+    <string name="Singa">TOGETHER 1</string>
+    <string name="kupu">TOGETHER 3</string>
+    <string name="harimau_list_title">Daftar Ras Harimau</string>
+    <string name="singa_list_title">Daftar Ras Singa</string>
+    <string name="kupu_list_title">Daftar Ras Kupu-Kupu</string>
+    <string name="biodata">BIODATA</string>
+    <string name="Klik">Klik Untuk Liat Gambar</string>
+    //biodata
+    <string name="biodata_saya">biodata</string>
+    <string name="Nama">Nama : Muhammad Azizan</string>
+    <string name="kelas">Kelas : TI-C</string>
+    <string name="Nim">NIM : 200602082</string>
+    <string name="Hobi">Hobi : Motion graphic</string>
+    <string name="Prodi">Prodi : Teknik Informatika</string>
+
+
+    // Data Harimau
+    <string name="siberia_nama">Harimau Siberia</string>
+    <string name="siberia_asal">Siberia</string>
+    <string name="siberia_deskripsi">Disebut juga Harimau Amur. Selain di siberia Mereka juga Hidup di tingkok Dan Korut</string>
+    <string name="india_nama">Harimau India</string>
+    <string name="india_asal">India</string>
+    <string name="india_deskripsi">Harimau India juga disebut sebagai harimau Bengal yang terancam punah karena perburuan</string>
+    <string name="cina_nama">Harimau Cina Selatan</string>
+    <string name="cina_asal">Cina Selatan</string>
+    <string name="cina_deskripsi">Harimau ini termasuk dalam subspesies harimau terkecil kedua didunia</string>
+    <string name="indocina_nama">Harimau Indocina</string>
+    <string name="indocina_asal">Thailadn,vietnam, dan kawasan asia tenggara</string>
+    <string name="indocina_deskripsi">harimau yang hidup dikawasna asi tenggara ini juga terdapat di tiongkok selatan</string>
+    <string name="malaya_nama">Harimau Malaya</string>
+    <string name="malaya_asal">Semenanjung Malaya</string>
+    <string name="malaya_deskripsi">merekaduku dikelompokkan sebagai hariumau indocina namun tes DNA pada 2004 menunjukkan mereka subspesies yang berbeda</string>
+    <string name="sumatra_nama">Harimau Sumatra </string>
+    <string name="sumatra_asal">Sumatra</string>
+    <string name="sumatra_deskripsi">merupakan subspesia paling kecil yang berkisaran 2,4 meter dan memiliki bulu yang gelap</string>
+    // Data Rinjani 1
+    <string name="kebersamaan0">Rinjani Pertama</string>
+    <string name="kebersamaan1">Rinjani 1</string>
+    <string name="kebersamaan2">Rinjani 2</string>
+    <string name="kebersamaan3">Rinjani 3</string>
+    <string name="kebersamaan4">Rinjani 4</string>
+    <string name="kebersamaan5">Rinjani 5</string>
+    <string name="kebersamaan6">Rinjani 6</string>
+    // Data Jalur
+    <string name="jalur0">Jalur 1</string>
+    <string name="jalur1">Jalur 2</string>
+    <string name="jalur2">Jalur 3</string>
+    <string name="jalur3">Jalur 4</string>
+    <string name="jalur4">Jalur 5</string>
+    <string name="jalur5">Jalur 6</string>
+    // Data Pemandangan
+    <string name="pemandangan0">Pemandangan 1</string>
+    <string name="pemandangan1">Pemandangan 2</string>
+    <string name="pemandangan2">Pemandangan 3</string>
+    <string name="pemandangan3">Pemandangan 4</string>
+    <string name="pemandangan4">Pemandangan 5</string>
+    <string name="pemandangan5">Pemandangan 6</string>
+    // Daftar berbagai jalur
+    <string name="jalur">DAFTAR BERBAGAI JALUR</string>
+    // Data Singa
+    <string name="katanga_asal">Afrika</string>
+    <string name="katanga_deskripsi">Singa ketanga termasuk singa besar dengan berat bisa mencapai 280 kilogramt</string>
+    <string name="kongo_nama">Singa Kongo</string>
+    <string name="kongo_asal">Kongo</string>
+    <string name="kongo_deskripsi">memiliki panjang sekitar 2,5 meter dan berat 150kg</string>
+    <string name="transvaal_nama">Singa Transvaal</string>
+    <string name="transvaal_asal">Afrika Selatan</string>
+    <string name="transvaal_deskripsi">singa afrika ini adalah variates dari bagian selatan afrika dan dianggap masih saudara dengan singa ketanga</string>
+    <string name="barbary_nama">Singa Barbary</string>
+    <string name="barbary_asal">Afrika</string>
+    <string name="barbary_deskripsi">Merupakan singa yang punah sekirat 1942, namun subspesiesmen dapat dilihat di kebun binatang</string>
+    <string name="afrikatimur_nama">Singa Afrika Timur</string>
+    <string name="afrikatimur_asal">AFfrika Timur</string>
+    <string name="afrikatimur_deskripsi">memiliki erat sekitar 150 sampai 200kg dan oejantan memiliki surai lebih gelap</string>
+    <string name="asia_nama">Singa Asia </string>
+    <string name="asia_asal">Asia</string>
+    <string name="asia_deskripsi">merupakan satwa asli india dan juga terncam punah karena kurangnya habitat mereka</string>
+    //kupu kupu
+    <string name="bidadari_nama">Kupu-Kupu Bidadari</string>
+    <string name="bidadari_asal">Sulawesi</string>
+    <string name="bidadari_deskripsi">kupu-kupu raja adalah jenis kupu-kupu yang termasukke dalam famili danaidae</string>
+    <string name="melayu_nama">Kupu-Kupu Raja Melayu</string>
+    <string name="melayu_asal">Asia Tenggara</string>
+    <string name="melayu_deskripsi">kupu jenis ini merupakan kupu-kupu yang tersebar diasia tenggara</string>
+    <string name="trogon_nama">Kupu-Kupu Trogon</string>
+    <string name="trogon_asal">Sumatra</string>
+    <string name="trogon_deskripsi">Merupakan  jenis kupu dari ordo lepidoptera. endemik regional. sebarannya hanay dipulau kalimantan</string>
+    <string name="hind_nama">Kupu-Kupu Kaider-I-Hind</string>
+    <string name="hind_asal">India</string>
+    <string name="hind_deskripsi">nama umum scara harfiah berarti(kaisar india). kaiser i handa banyak dicari oleh para kolektor Kupu-Kupu karena keindahan dan kelangkaannya</string>
+    <string name="miranda_nama">Kupu-Kupu Raja Miranda</string>
+    <string name="miranda_asal">Sumatra</string>
+    <string name="mirand_deskripsi">raja miranda merupakan spesies kupu-kupu besar yang disebut dengan Common Birdwing</string>
+    <string name="kalimantan_nama">Kupu-Kupu Raja Kalimantan </string>
+    <string name="kalimantan_asal">Kalimantan</string>
+    <string name="kalimantan_deskripsi">roides cuneifera adalah kupu-kupu yang masuk dalam kelompok kupu-kupu ekor layang-layang yang ditemukan di Thailand, semenanjung malaya, sumatra, jawa dan kalimanta</string>
+
+</resources>
